@@ -1,0 +1,10 @@
+# virtual environment
+space-exploration-venv/
+
+# compiled Python files
+__pycache__/
+
+# IDE specific stuff
+.vscode/
+
+# other
